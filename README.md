@@ -1,4 +1,4 @@
-# MRI Preprocessing
+# Alzheimer Classifier
 
 ## Introduction
 
